@@ -1,3 +1,7 @@
-#logo {
-  /* Indiquez les propriétés CSS ici */
+.ma-classe {
+  color: #663399;
+}
+
+.grand-texte {
+  font-size: 30px;
 }
