@@ -1,11 +1,4 @@
-h1 {
-  color: blue;
-}
+h1,
 p {
-  /* J'en profite pour
-
-ajouter un commentaire
-
-sur plusieurs lignes */
   color: blue;
 }
