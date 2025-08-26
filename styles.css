@@ -1,19 +1,31 @@
 .container {
   display: flex;
-  flex-direction: column;
+  width: 650px;
+  flex-wrap: wrap;
+  height: 400px;
+  border: solid 2px #000;
 }
-.container {
-  flex-direction: column-reverse;
+.start {
+  justify-content: flex-start;
 }
-.container {
-  flex-wrap: nowrap;
+.end {
+  justify-content: flex-end;
 }
-.container {
-  justify-content: flex-start; /* OU flex-end
-    OU center
-    OU space-between
-    OU space-around; */
+
+.center {
+  justify-content: center;
 }
+
+.spaceBetween {
+  justify-content: space-between;
+}
+.spaceAround {
+  justify-content: space-around;
+}
+.stretch {
+  justify-content: stretch;
+}
+
 .element {
   width: 150px;
   min-height: 100px;
