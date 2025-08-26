@@ -1,38 +1,19 @@
 * {
   font-family: Arial;
-}
-
-h1 {
   text-align: center;
 }
 
-.box {
-  background-color: #fff;
-  border-radius: 10px;
-  border: 3px solid black;
-  height: 150px;
-  width: 150px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+caption {
+  padding-bottom: 15px;
 }
 
-.conteneur {
-  position: relative;
-  width: 50%;
+table {
+  border-collapse: collapse;
   margin: auto;
 }
 
-.sticky {
-  position: sticky;
-  background-color: #c2b0f9;
-  margin: auto;
-  top: 0;
-}
-
-.fixed {
-  position: fixed;
-  background-color: #cbfcb9;
-  top: 0;
-  left: 0;
+td,
+th {
+  padding: 15px;
+  border: 1px solid black;
 }
