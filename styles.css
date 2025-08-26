@@ -1,7 +1,35 @@
-.ma-classe {
-  color: #663399;
+.elem1 {
+  font-size: 8px;
 }
 
-.grand-texte {
-  font-size: 30px;
+.elem2 {
+  font-size: 16px;
+}
+
+.elem3 {
+  font-size: 24px;
+}
+
+.elem4 {
+  font-size: 32px;
+}
+
+.elem5 {
+  font-size: 40px;
+}
+
+.elem6 {
+  font-size: 48px;
+}
+
+.elem7 {
+  font-size: 56px;
+}
+
+.elem8 {
+  font-size: 64px;
+}
+
+.elem9 {
+  font-size: 72px;
 }
