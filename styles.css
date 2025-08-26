@@ -1,9 +1,5 @@
-a[title] {
-  /* Insérez ici votre style */
-}
-a[title="Cliquez ici"] {
-  /* Insérez ici votre style */
-}
-a[title*="ici"] {
-  /* Insérez ici votre style */
+p {
+  width: 250px;
+  height: 50px;
+  background-color: red;
 }
