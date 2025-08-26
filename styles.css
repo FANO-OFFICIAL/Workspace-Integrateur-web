@@ -1,4 +1,12 @@
-.element8 {
-  font-size: 50px;
-  text-shadow: 3px 3px 0px rgba(0, 0, 0, 0.2);
+.mon-element:hover {
+  background-color: #beaee2;
+  color: white;
+}
+
+h1:hover {
+  color: #cdf0ea;
+}
+
+p:hover {
+  color: #f9ceee;
 }
