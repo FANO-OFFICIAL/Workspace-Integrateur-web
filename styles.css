@@ -1,0 +1,30 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.container {
+  flex-direction: column-reverse;
+}
+.container {
+  flex-wrap: nowrap;
+}
+.container {
+  justify-content: flex-start; /* OU flex-end
+    OU center
+    OU space-between
+    OU space-around; */
+}
+.element {
+  width: 150px;
+  min-height: 100px;
+}
+
+.element1 {
+  background-color: orange;
+}
+.element2 {
+  background-color: blue;
+}
+.element3 {
+  background-color: lightgreen;
+}
