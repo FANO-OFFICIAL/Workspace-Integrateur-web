@@ -1,3 +1,3 @@
 .banniere {
-  background: url("images/background.jpg") cover center;
+  background: url("images/background.jpg") center / cover;
 }
