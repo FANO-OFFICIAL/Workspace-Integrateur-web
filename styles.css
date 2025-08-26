@@ -7,24 +7,24 @@
   align-items: center;
 }
 .start {
-  justify-content: flex-start;
+  align-content: flex-start;
 }
 .end {
-  justify-content: flex-end;
+  align-content: flex-end;
 }
 
 .center {
-  justify-content: center;
+  align-content: center;
 }
 
 .spaceBetween {
-  justify-content: space-between;
+  align-content: space-between;
 }
 .spaceAround {
-  justify-content: space-around;
+  align-content: space-around;
 }
 .stretch {
-  justify-content: stretch;
+  align-content: stretch;
 }
 
 .element {
