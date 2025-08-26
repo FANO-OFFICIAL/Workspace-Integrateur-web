@@ -1,15 +1,11 @@
-.underline {
-  text-decoration: underline;
+.gauche {
+  text-align: left;
 }
 
-.line-through {
-  text-decoration: line-through;
+.centre {
+  text-align: center;
 }
 
-.overline {
-  text-decoration: overline;
-}
-
-.normal {
-  text-decoration: none;
+.droite {
+  text-align: right;
 }
