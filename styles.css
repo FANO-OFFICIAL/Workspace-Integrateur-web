@@ -1,10 +1,15 @@
-img {
-  height: 400px;
+* {
+  font-family: Arial;
 }
 
-/*  Nous n'avons pas encore vu la notation ci-dessous, mais pas de panique, nous la verrons dans la partie 4 du cours ! */
-@media screen and (max-width: 800px) {
-  img {
-    display: none;
-  }
+body {
+  background-color: #c3b8ff;
+}
+
+a {
+  background-color: white;
+  color: black;
+  position: relative;
+  top: 6px;
+  left: 10px;
 }
