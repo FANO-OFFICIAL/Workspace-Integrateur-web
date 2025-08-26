@@ -4,3 +4,6 @@ a:active {
 a:focus {
   background-color: #fcffa6;
 }
+a:visited {
+  color: black;
+}
