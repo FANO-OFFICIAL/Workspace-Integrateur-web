@@ -1,6 +1,7 @@
 .solid {
   border: 1px #eb5353 solid;
   border-radius: 10px;
+  box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
 }
 
 .double {
